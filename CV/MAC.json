@@ -94,6 +94,24 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "2k06 Construcció de la Xarxa Berguedana",
+          "description": "Finalización de la construcción de la Red Berguedana, con una cobertura de 145.000 m2 y una población de menos de 4.000 personas. ¿La velocidad inicial?: ¡512Kb!",
+          "URL": "https://www.innovalocal.cat/es/nosotros/"
+        },
+        "type": "launch",
+        "publishingDate": "2006-04-01",
+        "relatedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Proyectos finalizados exitosamente"
+        ]
+      },
+      {
+        "details": {
           "name": "Proyecto Internet rural en Alt Penedès",
           "description": "AWACAT, primer WISP en España de la mano de 3Com. Expertos en telecomunicaciones inalámbricas en entornos rurales.",
           "URL": "https://www.computerworld.es/actualidad/3com-y-awacat-llevan-acceso-inalambrico-publico-wifi-a-la-region-del-penedes"

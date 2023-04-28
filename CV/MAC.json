@@ -31,6 +31,21 @@
         "topic": "Apasionado por la tecnologia, incansable aprendiz, inconformista, ",
         "fact": "Ya hace años que soy usuario de silla de ruedas a causa de un accidente laboral de tráfico. Desde entonces busco la manera de dar facilidad y practicidad a lo que hago y que mejor filosofía que la de un hacker de la vida para llevar a cabo mi mayor deseo, ser feliz y hacer feliz a mi entorno."
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Innovalocal.cat",
+        "type": "other",
+        "URL": "https://www.innovalocal.cat/es/inicio/",
+        "authors": [
+          {
+            "name": "INNOVALOCAL.",
+            "surnames": "CAT",
+            "title": "Author"
+          }
+        ],
+        "summary": "Servicios. Comunicaciones profesionales para la empresa conectada\nNuestro catálogo de productos y servicios pretende cubrir las necesidades de conectividad en el entorno empresarial pero, si a pesar de todo, observan que hay alguna situación que nosotros no hemos previsto, no duden en contactar con nosotros. Estaremos encantados de buscar respuestas a sus preguntas."
+      }
     ]
   },
   "experience": {

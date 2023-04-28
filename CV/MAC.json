@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Vilafranca del Penedès",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Vilafranca del Penedès"
       }
     },
     "relevantLinks": [
@@ -105,6 +104,29 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "VIPHONE SA "
+        },
+        "roles": [
+          {
+            "name": "Analista",
+            "startDate": "2008-05-01",
+            "finishDate": "2008-12-01",
+            "challenges": [
+              {
+                "description": "Proyecto para implementar ERP en empresa de distribución de telefonía móvil. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "SAP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
@@ -177,24 +199,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
-        "level": "Native or bilingual proficiency"
+        "name": "Catalan"
       },
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "French",
-        "level": "Limited working proficiency"
+        "name": "French"
       },
       {
-        "name": "Portuguese",
-        "level": "Limited working proficiency"
+        "name": "Portuguese"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -351,31 +368,6 @@
         "IT Manager",
         "SysAdmin"
       ]
-    },
-    "status": "searchingActively"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "Linux",
-        "type": "technology"
-      },
-      {
-        "name": "Zabbix",
-        "type": "technology"
-      },
-      {
-        "name": "VMWare",
-        "type": "technology"
-      },
-      {
-        "name": "MySQL",
-        "type": "technology"
-      },
-      {
-        "name": "Docker",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }

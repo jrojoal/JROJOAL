@@ -94,6 +94,18 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Integración y desarrollo de nuevos servicios",
+          "description": "Relanzamiento de todos los servicios, con especial incidencia en las interconexiones entre Datacenters y el despliegue en el Area Metropolitana de Barcelona",
+          "URL": "https://www.innovalocal.cat/es/nosotros/"
+        },
+        "type": "launch",
+        "publishingDate": "2021-01-01",
+        "tags": [
+          "Proyectos finalizados exitosamente"
+        ]
+      },
+      {
+        "details": {
           "name": "2k06 Construcció de la Xarxa Berguedana",
           "description": "Finalización de la construcción de la Red Berguedana, con una cobertura de 145.000 m2 y una población de menos de 4.000 personas. ¿La velocidad inicial?: ¡512Kb!",
           "URL": "https://www.innovalocal.cat/es/nosotros/"

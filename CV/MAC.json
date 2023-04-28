@@ -200,85 +200,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "RedHat",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VirtualBox",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Shellscript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Zabbix",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "web hosting",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VMWare",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Wireshark",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
           "type": "technology"
         }
       },
@@ -296,13 +218,91 @@
       },
       {
         "skill": {
-          "name": "Bash",
+          "name": "Shellscript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RedHat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zabbix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "web hosting",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Wireshark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VirtualBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
           "type": "technology"
         }
       }
@@ -357,7 +357,7 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "MySQL",
+        "name": "Linux",
         "type": "technology"
       },
       {
@@ -369,11 +369,11 @@
         "type": "technology"
       },
       {
-        "name": "Linux",
+        "name": "MySQL",
         "type": "technology"
       },
       {
-        "name": "Bash",
+        "name": "Docker",
         "type": "technology"
       }
     ]

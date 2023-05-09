@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,7 +13,8 @@
       "location": {
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Vilafranca del Penedès"
+        "municipality": "Vilafranca del Penedès",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -37,14 +38,14 @@
         "title": "Innovalocal.cat",
         "type": "other",
         "URL": "https://www.innovalocal.cat/es/inicio/",
+        "summary": "Servicios. Comunicaciones profesionales para la empresa conectada\nNuestro catálogo de productos y servicios pretende cubrir las necesidades de conectividad en el entorno empresarial pero, si a pesar de todo, observan que hay alguna situación que nosotros no hemos previsto, no duden en contactar con nosotros. Estaremos encantados de buscar respuestas a sus preguntas.",
         "authors": [
           {
             "name": "INNOVALOCAL.",
             "surnames": "CAT",
             "title": "Author"
           }
-        ],
-        "summary": "Servicios. Comunicaciones profesionales para la empresa conectada\nNuestro catálogo de productos y servicios pretende cubrir las necesidades de conectividad en el entorno empresarial pero, si a pesar de todo, observan que hay alguna situación que nosotros no hemos previsto, no duden en contactar con nosotros. Estaremos encantados de buscar respuestas a sus preguntas."
+        ]
       }
     ]
   },
@@ -199,22 +200,99 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English"
+        "name": "Francés",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "French"
+        "name": "Catalán",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Portuguese"
+        "name": "Inglés",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Portugués",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "RedHat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shellscript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zabbix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "web hosting",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VirtualBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Wireshark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "AWS",
@@ -235,79 +313,7 @@
       },
       {
         "skill": {
-          "name": "Shellscript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Microsoft",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RedHat",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Zabbix",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VMWare",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "web hosting",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Wireshark",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VirtualBox",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure",
           "type": "technology"
         }
       },
@@ -331,6 +337,10 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/jrojoal/"
+        },
+        {
+          "type": "other",
+          "URL": "https://twitter.com/jrojoal"
         }
       ]
     },
@@ -368,6 +378,31 @@
         "IT Manager",
         "SysAdmin"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Zabbix",
+        "type": "technology"
+      },
+      {
+        "name": "VMWare",
+        "type": "technology"
+      },
+      {
+        "name": "MySQL",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      }
+    ]
   }
 }

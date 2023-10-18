@@ -119,6 +119,54 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "AWACAT",
+          "URL": "http://awacat.cat"
+        },
+        "roles": [
+          {
+            "name": "Gerente/Sistemas",
+            "startDate": "2001-09-01",
+            "finishDate": "2005-05-01",
+            "challenges": [
+              {
+                "description": "Primer WISP Español con especialidad en conectividad de entornos rurales y difícil acceso. Responsables de la creación de la primera infraestructura Wireless en el Penedès, Berguedà y Priorat. Con más de 200 usuarios y empresas ofreciendo accesos de hasta 10 Mb. En esta empresa fundada por mí, me encargué de la Gerencia de la empresa tanto técnica como administrativa. Proyectos, legislación y trato con cliente/usuario."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Cisco",
+                "type": "technology"
+              },
+              {
+                "name": "DNS",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Pfsense",
+                "type": "technology"
+              },
+              {
+                "name": "Shellscript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [

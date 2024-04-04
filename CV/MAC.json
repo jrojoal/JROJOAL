@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -36,6 +36,16 @@
             "title": "Author"
           }
         ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jrojoal/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/jrojoal"
       }
     ]
   },
@@ -240,22 +250,27 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "FR",
+        "fullName": "Francés",
         "level": "Limited working proficiency"
       },
       {
         "name": "PT",
+        "fullName": "Portugués",
         "level": "Limited working proficiency"
       }
     ],
@@ -404,12 +419,6 @@
       ],
       "contactMails": [
         "jrojoal@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "695509551",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {

@@ -600,6 +600,10 @@
           "type": "technology"
         },
         {
+          "name": "Oracle Cloud",
+          "type": "technology"
+        },
+        {
           "name": "Perl",
           "type": "technology"
         },

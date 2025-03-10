@@ -588,6 +588,10 @@
           "type": "technology"
         },
         {
+          "name": "Oracle",
+          "type": "technology"
+        },
+        {
           "name": "Perl",
           "type": "technology"
         },

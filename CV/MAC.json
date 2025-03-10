@@ -584,6 +584,10 @@
           "type": "technology"
         },
         {
+          "name": "Debian",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },

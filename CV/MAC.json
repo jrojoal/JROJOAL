@@ -53,6 +53,157 @@
     "jobs": [
       {
         "organization": {
+          "name": "SCC Spain",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/10/e39e480f-bb43-4377-a2dd-4a9f0486c185_logoscc.jpg",
+            "alt": "logoSCC.jpg"
+          },
+          "URL": "https://es.scc.com"
+        },
+        "roles": [
+          {
+            "name": "Sysadmin",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Administrador de sistemas actuando como externo en Universitat Pompeu Fabra (UPF) Ejerciendo en Backend de infraestructura y servicios."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS EKS",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Debian",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
+                "name": "Fortinet",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Google Kubernetes Engine",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
+              },
+              {
+                "name": "Nagios",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Palo Alto",
+                "type": "technology"
+              },
+              {
+                "name": "Perl",
+                "type": "technology"
+              },
+              {
+                "name": "Pfsense",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              },
+              {
+                "name": "Puppet",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "RedHat",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SUSE",
+                "type": "technology"
+              },
+              {
+                "name": "ServiceNow",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "Weblogic",
+                "type": "technology"
+              },
+              {
+                "name": "Zabbix",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Innovació Local SL",
           "URL": "http://innovalocal.net"
         },
@@ -416,9 +567,6 @@
           "URL": "https://twitter.com/jrojoal",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "jrojoal@gmail.com"
       ]
     },
     "preferences": {

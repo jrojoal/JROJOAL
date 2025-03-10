@@ -596,6 +596,10 @@
           "type": "technology"
         },
         {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
           "name": "Linux",
           "type": "technology"
         },

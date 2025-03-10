@@ -598,6 +598,10 @@
         {
           "name": "Python",
           "type": "technology"
+        },
+        {
+          "name": "Weblogic",
+          "type": "technology"
         }
       ],
       "preferredRoles": [

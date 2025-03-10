@@ -628,6 +628,10 @@
           "type": "technology"
         },
         {
+          "name": "RedHat",
+          "type": "technology"
+        },
+        {
           "name": "Terraform",
           "type": "technology"
         },

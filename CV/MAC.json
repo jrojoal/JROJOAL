@@ -644,6 +644,10 @@
           "type": "technology"
         },
         {
+          "name": "Ubuntu",
+          "type": "technology"
+        },
+        {
           "name": "Weblogic",
           "type": "technology"
         },

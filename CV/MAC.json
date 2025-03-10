@@ -614,6 +614,10 @@
         {
           "name": "Weblogic",
           "type": "technology"
+        },
+        {
+          "name": "Zabbix",
+          "type": "technology"
         }
       ],
       "preferredRoles": [

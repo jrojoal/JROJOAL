@@ -584,6 +584,10 @@
           "type": "technology"
         },
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "ELK",
           "type": "technology"
         },

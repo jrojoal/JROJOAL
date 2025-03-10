@@ -632,6 +632,10 @@
           "type": "technology"
         },
         {
+          "name": "SUSE",
+          "type": "technology"
+        },
+        {
           "name": "Terraform",
           "type": "technology"
         },

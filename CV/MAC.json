@@ -576,6 +576,10 @@
           "type": "technology"
         },
         {
+          "name": "AWS EKS",
+          "type": "technology"
+        },
+        {
           "name": "Bash",
           "type": "technology"
         },

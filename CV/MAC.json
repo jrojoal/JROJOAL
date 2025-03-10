@@ -49,6 +49,19 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "UPF",
+        "type": "other",
+        "URL": "https://www.upf.edu/web/universitat",
+        "summary": "Universitat Pompeu Fabra",
+        "authors": [
+          {
+            "name": "Pep",
+            "surnames": "Rojo",
+            "title": "Author"
+          }
+        ]
       }
     ],
     "relevantLinks": [
@@ -717,6 +730,10 @@
       {
         "name": "SCC",
         "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/10/335fb29e-6369-4e02-9ca2-b5be9603a0f5_logoscc.jpg"
+      },
+      {
+        "name": "UPF",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/10/6e4749d2-4405-4687-985a-7829f707ac57_upft_rgb.png"
       }
     ]
   }

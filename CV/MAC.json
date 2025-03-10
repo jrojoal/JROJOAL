@@ -36,6 +36,19 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "SCC",
+        "type": "other",
+        "URL": "https://es.scc.com",
+        "summary": "SCC España",
+        "authors": [
+          {
+            "name": "Pep",
+            "surnames": "Rojo",
+            "title": "Author"
+          }
+        ]
       }
     ],
     "relevantLinks": [
@@ -700,6 +713,10 @@
     "bookmarks": [
       {
         "name": "Innovalocal.cat"
+      },
+      {
+        "name": "SCC",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/10/335fb29e-6369-4e02-9ca2-b5be9603a0f5_logoscc.jpg"
       }
     ]
   }

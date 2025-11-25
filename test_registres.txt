@@ -1,0 +1,14 @@
+# Fitxer de prova per validar el script DNS
+# Format: IP HOSTNAME o HOSTNAME IP
+
+# Servidors
+10.0.1.10 server01.upf.edu
+10.0.1.11 server02.upf.edu
+server03.upf.edu 10.0.1.12
+
+# Serveis web
+web01.upf.edu 10.0.2.10
+10.0.2.11 web02.upf.edu
+
+# Bases de dades
+10.0.3.20 db-master.upf.edu

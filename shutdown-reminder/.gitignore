@@ -1,0 +1,6 @@
+# Executables compilats
+*.exe
+
+# Fitxers temporals de PowerShell
+*.tmp
+*.log

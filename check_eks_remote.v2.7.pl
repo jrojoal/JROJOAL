@@ -254,9 +254,7 @@ if ($command =~ /^Reiniciats$/i) {
     my $summary = "$total pods reiniciats | infra:$infra_total app:$app_total | Últims: "
                 . join(", ", @msg);
 
-    my $exit_code = ($app_total > 0) ? 2 : 1;
-    print($exit_code == 2 ? "CRITICAL: " : "WARNING: ");
-    print "$summary | pods_reiniciats=$total;;;;\n";
+    print "CRITICAL: $summary | pods_reiniciats=$total;;;;\n";
 
     if ($debug) {
         for my $p (@preview) {
@@ -268,7 +266,7 @@ if ($command =~ /^Reiniciats$/i) {
             print "$logs\n";
         }
     }
-    exit $exit_code;
+    exit 2;
 }
 
 # ============================================================================
@@ -288,7 +286,7 @@ if ($command =~ /^Stat$/i) {
 
     # -----------------------------------------------------------------------
     # Hi ha sortida → alguna cosa va malament.  Intentem parsejar en 2 formats
-    # per generar un resum, però SEMPRE retornarem WARNING com a mínim.
+    # per generar un resum, però SEMPRE retornarem CRITICAL com a mínim.
     # -----------------------------------------------------------------------
     my @bad;
 
@@ -309,21 +307,21 @@ if ($command =~ /^Stat$/i) {
 
     my $total = scalar(@bad);
 
-    # Si NO hem pogut parsejar cap pod, igualment WARNING amb el text cru
+    # Si NO hem pogut parsejar cap pod, igualment CRITICAL amb el text cru
     # (cap fals OK — fail-closed)
     if ($total == 0) {
-        print "WARNING: Pods amb estat incorrecte (format inesperat). "
+        print "CRITICAL: Pods amb estat incorrecte (format inesperat). "
             . "Mostra parcial: " . substr($out, 0, 220)
             . " | pods_bad=1;;;;\n";
-        exit 1;
+        exit 2;
     }
 
     my @preview = @bad[0 .. ($#bad < 3 ? $#bad : 3)];
 
-    print "WARNING: $total pods amb estat incorrecte | Últims: "
+    print "CRITICAL: $total pods amb estat incorrecte | Últims: "
         . join(", ", @preview)
         . " | pods_bad=$total;;;;\n";
-    exit 1;
+    exit 2;
 }
 
 # ============================================================================

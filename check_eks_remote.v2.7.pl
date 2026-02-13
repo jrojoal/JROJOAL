@@ -207,10 +207,17 @@ exit_unknown("Comanda no especificada (-c)") unless $command;
 # ---------------- INFRA NAMESPACES ----------------
 my %infra_ns = map { $_ => 1 } (
     "amazon-cloudwatch",
-    "kube-system",
     "amazon-network-flow-monitor",
-    "velero",
-    "ingress-nginx"
+    "commvault",
+    "default",
+    "ingress-nginx",
+    "kube-node-lease",
+    "kube-public",
+    "kube-system",
+    "sso-pre",
+    "uis-pre",
+    "upf-pre",
+    "velero"
 );
 
 # ============================================================================

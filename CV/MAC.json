@@ -645,6 +645,10 @@
           "type": "technology"
         },
         {
+          "name": "AWS-Admin",
+          "type": "technology"
+        },
+        {
           "name": "Bash",
           "type": "technology"
         },

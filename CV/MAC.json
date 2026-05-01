@@ -688,7 +688,7 @@
         "SysAdmin"
       ]
     },
-    "status": "searchingActively",
+    "status": "openToOffers",
     "requirements": {
       "contractTypes": [
         "permanent"

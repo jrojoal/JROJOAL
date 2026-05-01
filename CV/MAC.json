@@ -457,6 +457,18 @@
       },
       {
         "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Azure",
           "type": "technology"
         }
@@ -481,7 +493,25 @@
       },
       {
         "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -500,6 +530,12 @@
       {
         "skill": {
           "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
           "type": "technology"
         }
       },
@@ -536,6 +572,12 @@
       {
         "skill": {
           "name": "VirtualBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Weblogic",
           "type": "technology"
         }
       },
@@ -698,19 +740,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Bash",
+        "type": "technology"
+      },
+      {
         "name": "Docker",
         "type": "technology"
       },
       {
-        "name": "Linux",
-        "type": "technology"
-      },
-      {
-        "name": "MySQL",
-        "type": "technology"
-      },
-      {
-        "name": "VMWare",
+        "name": "Kubernetes",
         "type": "technology"
       },
       {

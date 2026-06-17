@@ -4,7 +4,7 @@
 
 **Infrastructure & Networking | Cloud Hybrid | Observabilitat | Automatització**
 
-📍 Vilafranca del Penedès, Barcelona &nbsp;|&nbsp; 📞 +34 695 509 551 &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-jrojoal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jrojoal/) [![Twitter](https://img.shields.io/badge/Twitter-@jrojoal-1DA1F2?style=flat&logo=twitter)](https://twitter.com/jrojoal)
+📍 Vilafranca del Penedès, Barcelona &nbsp;|&nbsp; 📞 +34 695 509 551 &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-jrojoal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jrojoal/) [![X](https://img.shields.io/badge/Twitter-@jrojoal-1DA1F2?style=flat&logo=twitter)](https://twitter.com/jrojoal)
 
 <div align='center'>
 <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2026-05-01&color=brightgreen&style=for-the-badge'>

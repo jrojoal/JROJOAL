@@ -43,6 +43,140 @@ Actualment gestiono infraestructura distribuïda multi-campus al **SCC de la Uni
 ### SysAdmin / Infrastructure & Networking Engineer · Innovació Local SL · *Abril 2004 – Desembre 2023*
 - Administració de sistemes Linux i Windows per a clients amb infraestructura distribuïda i múltiples seus.
 - Disseny i gestió de xarxes corporatives LAN/WAN, WiFi, VPN site-to-site, routing i switching.
+- Disseny, gestió i explotació de xarxes sense fils, tant per a ubicacions fixes com per a festivals, esdeveniments culturals i esportius efímers.
+- Connectivitat híbrida OnPrem amb AWS, Azure i VMware Cloud.
+- Firewalls i seguretat perimetral: configuració, auditoria, hardening i polítiques d'accés.
+- Virtualització VMware i Hyper-V; contenidors Docker i Kubernetes.
+- Automatització amb Ansible, Terraform i scripting (Bash, Python, Perl).
+- Monitorització proactiva amb Zabbix, Grafana i Nagios; definició d'alertes i SLAs.
+- Administració de bases de dades MySQL, PostgreSQL i NoSQL.
+
+### Consultor Tecnològic · Viphone SL · *2007 – 2008*
+- Posada en producció d'ERP corporatiu, disseny de polítiques de seguretat i documentació de processos.
+
+### Fundador & CTO · AWACAT (Accessos Web Alternatius de Catalunya) · *2002 – 2005*
+- **Primer WISP d'Espanya** especialitzat en connectivitat rural, de la mà de 3COM.
+- Responsable de la primera infraestructura Wireless al Penedès, Berguedà i Priorat; +200 usuaris i empreses.
+- Gerència tècnica i administrativa: projectes, legislació, tracte amb client.
+
+---
+
+## 🛠️ Competències Tècniques
+
+| Àrea | Tecnologies |
+|---|---|
+| **Sistemes** | Linux (Ubuntu, Debian, CentOS, RedHat, Oracle, SUSE), Windows Server |
+| **Virtualització** | VMware, Hyper-V, Docker, Kubernetes, OpenShift, Proxmox, VirtualBox |
+| **Cloud** | Azure, Google Cloud Platform, AWS |
+| **Networking** | Routing, Switching, LAN/WAN, VPN, WiFi corporatiu, TCP/IP, segmentació |
+| **Seguretat** | Fortinet, Palo Alto, pfSense, WAF, hardening, backup, continuïtat |
+| **Observabilitat** | Nagios, CheckMK, Zabbix, Prometheus, Grafana, Elastic Stack |
+| **Automatització** | Bash, Python, Perl, Ansible, Terraform, Puppet |
+| **Web & Middleware** | Apache, Nginx, WebLogic, Balancejadors A10, NLB |
+| **Eines ITSM** | ServiceNow, Jira, Git, Confluence |
+
+---
+
+## 🎓 Educació i Certificacions
+
+- 🎓 Especialitat en Telecomunicacions — Universitat de València — 2004
+- ✅ CCNA (Cisco Certified Network Associate) — 2023
+- ✅ Palo Alto Remote Network Administrator — 2023
+- ✅ Kubernetes per a Administradors IT — 2023
+- ✅ Azure per a SysAdmins — 2022
+- ✅ Google Cloud Associate Cloud Engineer — 2022
+- ✅ Zabbix Certified Specialist — 2020
+
+---
+
+## 🌐 Idiomes
+
+| Idioma | Nivell |
+|---|---|
+| Català | Natiu |
+| Castellà | Natiu |
+| Anglès | Intermedi Tècnic |
+| Francès | Bàsic-Intermedi |
+| Italià | Bàsic-Intermedi |
+| Portuguès | Bàsic-Intermedi |
+
+---
+
+## 📂 Estructura del Repositori
+
+```
+JROJOAL/
+├── CV/
+│   ├── MAC.json                              # CV en format Manfred MAC (màquina llegible)
+│   ├── PepRojo_CV_Standard_Maig26.pdf        # CV estàndard (PDF)
+│   ├── PEP ROJO-CV-Monitoritzacio.pdf        # CV especialitzat Monitorització
+│   ├── PepRojo_SeniorSysOps_Izertis_v2.pdf   # Carta de presentació SysOps
+│   └── ...                                   # Altres versions i formats
+├── assets/                                   # Imatges, certificats i recursos
+└── README.md                                 # Aquest fitxer
+```
+
+El fitxer [CV/MAC.json](/CV/MAC.json) és la font de veritat del CV, en format [Manfred Awesomic CV (MAC)](https://github.com/getmanfred/mac), sincronitzat amb el [perfil de Manfred](https://getmanfred.com/profile/0332be33-e5da-499f-be75-d173a25f032c).
+
+---
+
+## ℹ️ Informació Addicional
+
+- 🦽 69% de discapacitat reconeguda (usuari de cadira de rodes). Importants bonificacions fiscals i de Seguretat Social per a l'empresa contractant.
+- 📅 Disponibilitat amb previ avís de 15 dies.
+- 🤝 Forta orientació al treball en equip, documentació de processos i metodologies àgils.
+
+---
+
+## ⚖️ Llicència
+
+Les dades d'aquest repositori contenen informació personal i professional i no poden ser processades automàticament sense el meu permís explícit d'acord amb el [GDPR](https://gdpr-info.eu/).
+
+El [format MAC](https://github.com/getmanfred/mac) és programari lliure sota la llicència [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).<img src="/assets/cv_icon.png" align="right" width="128px" />
+
+# Pep Rojo — Senior SysAdmin / SysOps
+
+**Infrastructure & Networking | Cloud Hybrid | Observabilitat | Automatització**
+
+📍 Vilafranca del Penedès, Barcelona &nbsp;|&nbsp; 📞 +34 695 509 551 &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-jrojoal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jrojoal/) [![X](https://img.shields.io/badge/Twitter-@jrojoal-1DA1F2?style=flat&logo=twitter)](https://twitter.com/jrojoal)
+
+<div align='center'>
+<img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2026-05-01&color=brightgreen&style=for-the-badge'>
+<a href='https://github.com/getmanfred/mac'>
+<img src='https://img.shields.io/static/v1?label=MAC%20Version&message=0.5&color=brightgreen&style=for-the-badge'>
+</a>
+<a href='#%EF%B8%8F-llicència'>
+<img src='https://img.shields.io/badge/GDPR%20Compliant-40479B?style=for-the-badge'>
+</a>
+</div>
+
+---
+
+## 👨‍💻 Perfil Professional
+
+Professional amb **més de 20 anys d'experiència** en administració d'infraestructures crítiques OnPrem i híbrides. Especialitzat en entorns Linux, virtualització VMware, networking corporatiu (routing, switching, WiFi), connectivitat híbrida multicloud (Azure, GCP, AWS) i observabilitat. Trajectòria consistent en entorns distribuïts amb múltiples seus físiques i serveis 24/7, orientat a l'estabilitat operativa, l'automatització i la millora contínua.
+
+Actualment gestiono infraestructura distribuïda multi-campus al **SCC de la Universitat Pompeu Fabra (UPF)**: entorns Linux/Windows, virtualització VMware, connectivitat híbrida, xarxes corporatives i WiFi, monitorització avançada (Nagios, CheckMK, Zabbix, Prometheus) i resolució d'incidències complexes amb anàlisi de causa arrel (RCA).
+
+---
+
+## 💼 Experiència Professional
+
+### Backend SysAdmin · SCC España (UPF) · *Abril 2024 – Actualitat*
+- Administració d'infraestructura distribuïda multi-campus (+5 seus a Barcelona), servidors Linux i Windows 24/7.
+- Connectivitat híbrida OnPrem amb Azure, GCP i AWS; configuració de VPN, routing i segmentació inter-seu.
+- Virtualització VMware; contenidors OpenShift i desplegaments cloud.
+- Networking corporatiu: xarxes cablejades, WiFi multi-seu, switching, segmentació i accés.
+- Monitorització i observabilitat amb Nagios, CheckMK, Zabbix i Prometheus.
+- Seguretat perimetral amb Fortinet, Palo Alto i pfSense; hardening i polítiques de firewall.
+- Administració WebLogic, Apache, Nginx; balancejadors A10 i NLB.
+- Automatització amb Bash, Python, Ansible, Puppet i Terraform.
+- Resolució d'incidències complexes, troubleshooting crític i RCA.
+- Documentació tècnica i mentoria per a Juniors en onboard.
+
+### SysAdmin / Infrastructure & Networking Engineer · Innovació Local SL · *Abril 2004 – Desembre 2023*
+- Administració de sistemes Linux i Windows per a clients amb infraestructura distribuïda i múltiples seus.
+- Disseny i gestió de xarxes corporatives LAN/WAN, WiFi, VPN site-to-site, routing i switching.
 - Connectivitat híbrida OnPrem amb AWS, Azure i VMware Cloud.
 - Firewalls i seguretat perimetral: configuració, auditoria, hardening i polítiques d'accés.
 - Virtualització VMware i Hyper-V; contenidors Docker i Kubernetes.

@@ -22,13 +22,13 @@
 
 Professional amb **més de 20 anys d'experiència** en administració d'infraestructures crítiques OnPrem i híbrides. Especialitzat en entorns Linux, virtualització VMware, networking corporatiu (routing, switching, WiFi), connectivitat híbrida multicloud (Azure, GCP, AWS) i observabilitat. Trajectòria consistent en entorns distribuïts amb múltiples seus físiques i serveis 24/7, orientat a l'estabilitat operativa, l'automatització i la millora contínua.
 
-Actualment gestiono infraestructura distribuïda multi-campus al **SCC de la Universitat Pompeu Fabra (UPF)**: entorns Linux/Windows, virtualització VMware, connectivitat híbrida, xarxes corporatives i WiFi, monitorització avançada (Nagios, CheckMK, Zabbix, Prometheus) i resolució d'incidències complexes amb anàlisi de causa arrel (RCA).
+Actualment gestiono infraestructura distribuïda multi-campus a la **UIS de la Universitat Pompeu Fabra (UPF)**: entorns Linux/Windows, virtualització VMware, connectivitat híbrida, xarxes corporatives i WiFi, monitorització avançada (Nagios, CheckMK, Zabbix, Prometheus) i resolució d'incidències complexes amb anàlisi de causa arrel (RCA).
 
 ---
 
 ## 💼 Experiència Professional
 
-### Backend SysAdmin · SCC España (UPF) · *Abril 2024 – Actualitat*
+### Backend SysAdmin · SCC España (extern a UPF) · *Abril 2024 – Actualitat*
 - Administració d'infraestructura distribuïda multi-campus (+5 seus a Barcelona), servidors Linux i Windows 24/7.
 - Connectivitat híbrida OnPrem amb Azure, GCP i AWS; configuració de VPN, routing i segmentació inter-seu.
 - Virtualització VMware; contenidors OpenShift i desplegaments cloud.

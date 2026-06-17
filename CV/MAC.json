@@ -8,6 +8,515 @@
     "profile": {
       "name": "Pep",
       "surnames": "Rojo",
+      "title": "Senior SysAdmin / SysOps | Infrastructure & Networking | Cloud Hybrid",
+      "description": "Professional amb més de 20 anys d'experiència en administració d'infraestructures crítiques OnPrem i híbrides. Especialitzat en entorns Linux, virtualització VMware, networking corporatiu (routing, switching, WiFi), connectivitat híbrida multicloud (Azure, GCP, AWS) i observabilitat. Trajectòria consistent en entorns distribuïts amb múltiples seus físiques i serveis 24/7, orientat a l'estabilitat operativa, l'automatització i la millora contínua.\n\nActualment gestiono infraestructura distribuïda multi-campus al SCC de la Universitat Pompeu Fabra: administro entorns Linux i Windows, virtualització VMware, connectivitat híbrida amb Azure i GCP, xarxes corporatives i WiFi, monitorització avançada amb Nagios, CheckMK, Zabbix i Prometheus, i resolc incidències complexes amb anàlisi de causa arrel. Opero en un entorn de serveis 24/7 amb múltiples seus físiques, on l'estabilitat, la segmentació de xarxa i la proactivitat són prioritàries.\n\nAl llarg de la meva trajectòria, he acumulat experiència sòlida en:\n- Administració d'infraestructura OnPrem i híbrida amb connectivitat multicloud (Azure, GCP, AWS).\n- Networking corporatiu: routing, switching, LAN/WAN, VPN, WiFi a escala i segmentació de xarxes.\n- Seguretat perimetral amb Fortinet, Palo Alto i pfSense; hardening i polítiques d'accés.\n- Monitorització i observabilitat en entorns d'alta disponibilitat amb múltiples seus.\n- Automatització operativa amb Bash, Python, Ansible i Terraform.\n- Gestió d'entorns distribuïts (multi-campus, clients multi-seu), equivalent a escenaris retail i logística.\n\nEn 2002 vaig fundar AWACAT (Wireless Accesos Web Alternativos de Catalunya SL), un ISP especialitzat en el disseny i implantació de xarxes de telecomunicacions en entorns rurals, primer WISP d'Espanya de la mà de 3COM.\n\nObjectius\nA curt termini: contribuir a projectes d'infraestructura crítica distribuïda i multicloud.\nA mig termini: aprofundir en SRE/DevOps i arquitectura de sistemes resilients.\nA llarg termini: emprenedoria tecnològica orientada a accessibilitat i inclusió.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJV_Xb34p5pBIROET-2i27bxM)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Vilafranca del Penedès"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Apassionat per la tecnologia, incansable aprenent, inconformista.",
+        "fact": "Fa anys que sóc usuari de cadira de rodes arran d'un accident laboral de trànsit. Des de llavors, he enfocat la meva vida a trobar formes més pràctiques, eficients i accessibles de fer les coses.\n\nEn aquest camí, he adoptat una filosofia molt clara: la de ser un \"hacker de la vida\", algú que s'adapta, que busca solucions i que transforma les limitacions en oportunitats.\n\nEl meu major objectiu és senzill, però ambiciós: ser feliç i contribuir que les persones del meu entorn també ho siguin.\n\n69% de discapacitat reconeguda (usuari de cadira de rodes). Importants bonificacions fiscals i de Seguretat Social per a l'empresa contractant."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Innovalocal.cat",
+        "type": "other",
+        "URL": "https://www.innovalocal.cat/es/inicio/",
+        "authors": [
+          {
+            "name": "INNOVALOCAL.",
+            "surnames": "CAT",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "SCC",
+        "type": "other",
+        "URL": "https://es.scc.com",
+        "authors": [
+          {
+            "name": "Pep",
+            "surnames": "Rojo",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "UPF",
+        "type": "other",
+        "URL": "https://www.upf.edu/web/universitat",
+        "authors": [
+          {
+            "name": "Pep",
+            "surnames": "Rojo",
+            "title": "Author"
+          }
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jrojoal/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/jrojoal"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "SCC Spain",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/10/e39e480f-bb43-4377-a2dd-4a9f0486c185_logoscc.jpg",
+            "alt": "logoSCC.jpg"
+          },
+          "URL": "https://es.scc.com"
+        },
+        "roles": [
+          {
+            "name": "Backend SysAdmin (Universitat Pompeu Fabra)",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Administrador de sistemes actuant com a extern a la Universitat Pompeu Fabra (UPF), exercint en Backend d'infraestructura i serveis.\n\n- Administració d'infraestructura distribuïda multi-campus (+5 seus a Barcelona): servidors Linux i Windows en entorn de serveis 24/7.\n- Gestió de connectivitat híbrida OnPrem amb Azure, GCP i AWS; configuració de VPN, routing i segmentació inter-seu.\n- Virtualització amb VMware; contenidors amb OpenShift i desplegaments cloud.\n- Networking corporatiu: xarxes cablejades, WiFi multi-seu, switching, segmentació i accés.\n- Monitorització i observabilitat amb Nagios, CheckMK, Zabbix i Prometheus.\n- Seguretat perimetral amb Fortinet, Palo Alto i pfSense; polítiques de firewall i hardening.\n- Administració de servidors d'aplicacions WebLogic i serveis web Apache i Nginx; balancejadors A10 i NLB.\n- Automatització operativa amb Bash i Python, Ansible, Puppet, Terraform.\n- Resolució d'incidències complexes, troubleshooting crític i anàlisi de causa arrel (RCA).\n- Creació de documentació tècnica.\n- Mentoria per a Juniors en onboard a UPF."
+              }
+            ],
+            "competences": [
+              {"name": "AWS", "type": "technology"},
+              {"name": "AWS EKS", "type": "technology"},
+              {"name": "Ansible", "type": "technology"},
+              {"name": "Azure", "type": "technology"},
+              {"name": "Bash", "type": "technology"},
+              {"name": "CheckMK", "type": "technology"},
+              {"name": "Confluence", "type": "technology"},
+              {"name": "Debian", "type": "technology"},
+              {"name": "Docker", "type": "technology"},
+              {"name": "ELK", "type": "technology"},
+              {"name": "Fortinet", "type": "technology"},
+              {"name": "Google Cloud", "type": "technology"},
+              {"name": "Google Kubernetes Engine", "type": "technology"},
+              {"name": "Grafana", "type": "technology"},
+              {"name": "Jira", "type": "technology"},
+              {"name": "Kubernetes", "type": "technology"},
+              {"name": "Linux", "type": "technology"},
+              {"name": "Microsoft Office 365", "type": "technology"},
+              {"name": "Nagios", "type": "technology"},
+              {"name": "Nginx", "type": "technology"},
+              {"name": "OpenShift", "type": "technology"},
+              {"name": "Oracle", "type": "technology"},
+              {"name": "Palo Alto", "type": "technology"},
+              {"name": "Perl", "type": "technology"},
+              {"name": "Pfsense", "type": "technology"},
+              {"name": "Prometheus", "type": "technology"},
+              {"name": "Puppet", "type": "technology"},
+              {"name": "Python", "type": "technology"},
+              {"name": "RedHat", "type": "technology"},
+              {"name": "SQL", "type": "technology"},
+              {"name": "SUSE", "type": "technology"},
+              {"name": "ServiceNow", "type": "technology"},
+              {"name": "Terraform", "type": "technology"},
+              {"name": "VMware", "type": "technology"},
+              {"name": "Weblogic", "type": "technology"},
+              {"name": "Zabbix", "type": "technology"}
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Innovació Local SL",
+          "URL": "http://innovalocal.net"
+        },
+        "roles": [
+          {
+            "name": "SysAdmin / Infrastructure & Networking Engineer",
+            "startDate": "2004-04-01",
+            "finishDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "Administració de sistemes Linux i Windows per a clients amb infraestructura distribuïda i múltiples seus.\n\n- Disseny i gestió de xarxes corporatives LAN/WAN, WiFi, VPN site-to-site, routing i switching.\n- Connectivitat híbrida: integració d'entorns OnPrem amb AWS, Azure i VMware Cloud.\n- Firewalls i seguretat perimetral: configuració, auditoria, hardening i polítiques d'accés.\n- Virtualització amb VMware i Hyper-V; contenidors amb Docker i Kubernetes.\n- Administració de servidors d'aplicacions WebLogic; entorns web amb Apache, Nginx i balancejadors A10.\n- Automatització amb Ansible, Terraform i scripting (Bash, Python, Perl).\n- Monitorització proactiva amb Zabbix, Grafana i Nagios; definició d'alertes i SLAs.\n- Sistemes de backup, recuperació i continuïtat de negoci per a entorns crítics.\n- Administració de bases de dades MySQL i PostgreSQL, NoSQL.\n- Relanzamiento de todos los servicios, con especial incidencia en las interconexiones entre Datacenters y el despliegue en el Área Metropolitana de Barcelona (2021)."
+              }
+            ],
+            "competences": [
+              {"name": "AWS", "type": "technology"},
+              {"name": "Ansible", "type": "technology"},
+              {"name": "Azure", "type": "technology"},
+              {"name": "Bash", "type": "technology"},
+              {"name": "Docker", "type": "technology"},
+              {"name": "Fortinet", "type": "technology"},
+              {"name": "Grafana", "type": "technology"},
+              {"name": "Hyper-V", "type": "technology"},
+              {"name": "Jira", "type": "technology"},
+              {"name": "Kubernetes", "type": "technology"},
+              {"name": "Lamp", "type": "technology"},
+              {"name": "Linux", "type": "technology"},
+              {"name": "MySQL", "type": "technology"},
+              {"name": "Nagios", "type": "technology"},
+              {"name": "Nginx", "type": "technology"},
+              {"name": "Pfsense", "type": "technology"},
+              {"name": "PostgreSQL", "type": "technology"},
+              {"name": "Python", "type": "technology"},
+              {"name": "Terraform", "type": "technology"},
+              {"name": "VMWare", "type": "technology"},
+              {"name": "Zabbix", "type": "technology"}
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Viphone SL"
+        },
+        "roles": [
+          {
+            "name": "Consultor Tecnològic",
+            "startDate": "2007-01-01",
+            "finishDate": "2008-12-01",
+            "challenges": [
+              {
+                "description": "Posada en producció d'ERP corporatiu per a empresa de distribució de telefonia mòbil.\n\n- Posta en producció ERP corporatiu.\n- Disseny de polítiques de seguretat.\n- Documentació de processos i manuals d'ús."
+              }
+            ],
+            "competences": [
+              {"name": "SAP", "type": "technology"}
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AWACAT - Accessos Web Alternatius de Catalunya SL",
+          "URL": "http://awacat.cat"
+        },
+        "roles": [
+          {
+            "name": "Fundador & CTO / Gerent",
+            "startDate": "2002-09-01",
+            "finishDate": "2005-05-01",
+            "challenges": [
+              {
+                "description": "Primer WISP d'Espanya especialitzat en connectivitat d'entorns rurals i difícil accés, de la mà de 3COM.\n\n- Responsable de la creació de la primera infraestructura Wireless al Penedès, Berguedà i Priorat.\n- Més de 200 usuaris i empreses amb accessos de fins a 10 Mb.\n- Gerència tècnica i administrativa: projectes, legislació i tracte amb client/usuari.\n- Assessor de projectes internacionals amb 3COM.\n- Gestió Dept. Tècnic, I+D i Comercial.\n- Pioner en xarxes de telecomunicacions rurals; pionero en el sector a nivel nacional."
+              }
+            ],
+            "competences": [
+              {"name": "Bash", "type": "technology"},
+              {"name": "Cisco", "type": "technology"},
+              {"name": "DNS", "type": "technology"},
+              {"name": "Linux", "type": "technology"},
+              {"name": "MySQL", "type": "technology"},
+              {"name": "Pfsense", "type": "technology"},
+              {"name": "Shellscript", "type": "technology"}
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Integració i desenvolupament de nous serveis",
+          "description": "Relançament de tots els serveis, amb especial incidència en les interconnexions entre Datacenters i el desplegament en l'Àrea Metropolitana de Barcelona.",
+          "URL": "https://www.innovalocal.cat/es/nosotros/"
+        },
+        "type": "launch",
+        "publishingDate": "2021-01-01",
+        "tags": ["Projectes finalitzats amb èxit"]
+      },
+      {
+        "details": {
+          "name": "2006 Construcció de la Xarxa Berguedana",
+          "description": "Finalització de la construcció de la Xarxa Berguedana, amb una cobertura de 145.000 m2 i una població de menys de 4.000 persones.",
+          "URL": "https://www.innovalocal.cat/es/nosotros/"
+        },
+        "type": "launch",
+        "publishingDate": "2006-04-01",
+        "tags": ["Projectes finalitzats amb èxit"],
+        "relatedCompetences": [
+          {"name": "Linux", "type": "technology"}
+        ]
+      },
+      {
+        "details": {
+          "name": "Projecte Internet rural a l'Alt Penedès",
+          "description": "AWACAT, primer WISP a Espanya de la mà de 3Com. Experts en telecomunicacions sense fil en entorns rurals.",
+          "URL": "https://www.computerworld.es/actualidad/3com-y-awacat-llevan-acceso-inalambrico-publico-wifi-a-la-region-del-penedes"
+        },
+        "type": "achievement",
+        "publishingDate": "2002-09-01",
+        "tags": ["Projectes finalitzats amb èxit"],
+        "relatedCompetences": [
+          {"name": "Bash", "type": "technology"},
+          {"name": "DNS", "type": "technology"},
+          {"name": "Lamp", "type": "technology"},
+          {"name": "Linux", "type": "technology"},
+          {"name": "Pfsense", "type": "technology"}
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Català / Valencià",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {"skill": {"name": "Linux", "type": "technology"}},
+      {"skill": {"name": "Windows Server", "type": "technology"}},
+      {"skill": {"name": "VMWare", "type": "technology"}},
+      {"skill": {"name": "Hyper-V", "type": "technology"}},
+      {"skill": {"name": "Docker", "type": "technology"}},
+      {"skill": {"name": "Kubernetes", "type": "technology"}},
+      {"skill": {"name": "OpenShift", "type": "technology"}},
+      {"skill": {"name": "Promox", "type": "technology"}},
+      {"skill": {"name": "VirtualBox", "type": "technology"}},
+      {"skill": {"name": "AWS", "type": "technology"}},
+      {"skill": {"name": "Azure", "type": "technology"}},
+      {"skill": {"name": "Google Cloud", "type": "technology"}},
+      {"skill": {"name": "Bash", "type": "technology"}},
+      {"skill": {"name": "Python", "type": "technology"}},
+      {"skill": {"name": "Perl", "type": "technology"}},
+      {"skill": {"name": "Ansible", "type": "technology"}},
+      {"skill": {"name": "Terraform", "type": "technology"}},
+      {"skill": {"name": "Puppet", "type": "technology"}},
+      {"skill": {"name": "Nagios", "type": "technology"}},
+      {"skill": {"name": "CheckMK", "type": "technology"}},
+      {"skill": {"name": "Zabbix", "type": "technology"}},
+      {"skill": {"name": "Prometheus", "type": "technology"}},
+      {"skill": {"name": "Grafana", "type": "technology"}},
+      {"skill": {"name": "Elasticsearch", "type": "technology"}},
+      {"skill": {"name": "Fortinet", "type": "technology"}},
+      {"skill": {"name": "Palo Alto", "type": "technology"}},
+      {"skill": {"name": "Pfsense", "type": "technology"}},
+      {"skill": {"name": "Apache", "type": "technology"}},
+      {"skill": {"name": "Nginx", "type": "technology"}},
+      {"skill": {"name": "Weblogic", "type": "technology"}},
+      {"skill": {"name": "MySQL", "type": "technology"}},
+      {"skill": {"name": "PostgreSQL", "type": "technology"}},
+      {"skill": {"name": "Oracle", "type": "technology"}},
+      {"skill": {"name": "ServiceNow", "type": "technology"}},
+      {"skill": {"name": "Jira", "type": "technology"}},
+      {"skill": {"name": "Confluence", "type": "technology"}},
+      {"skill": {"name": "Git", "type": "technology"}},
+      {"skill": {"name": "Wireshark", "type": "technology"}},
+      {"skill": {"name": "web hosting", "type": "technology"}},
+      {"skill": {"name": "Cisco", "type": "technology"}},
+      {"skill": {"name": "Jenkins", "type": "technology"}},
+      {"skill": {"name": "Postman", "type": "technology"}},
+      {"skill": {"name": "Shellscript", "type": "technology"}},
+      {"skill": {"name": "Microsoft", "type": "technology"}}
+    ],
+    "softSkills": [
+      {"skill": {"name": "Adaptabilitat al canvi", "type": "practice"}},
+      {"skill": {"name": "Pensament analític", "type": "practice"}},
+      {"skill": {"name": "Visió estratègica", "type": "practice"}},
+      {"skill": {"name": "Treball en equip i mentoria", "type": "practice"}},
+      {"skill": {"name": "Documentació de processos i metodologies àgils", "type": "practice"}}
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Especialitat en Telecomunicacions",
+        "description": "Especialitat en Telecomunicacions",
+        "startDate": "2000-01-01",
+        "finishDate": "2004-01-01",
+        "institution": {
+          "name": "Universitat de València"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CCNA (Cisco Certified Network Associate)",
+        "description": "Cisco Certified Network Associate",
+        "startDate": "2023-01-01",
+        "finishDate": "2023-12-31",
+        "institution": {
+          "name": "Cisco"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Palo Alto Remote Network Administrator",
+        "description": "Palo Alto Networks - Remote Network Administrator",
+        "startDate": "2023-01-01",
+        "finishDate": "2023-12-31",
+        "institution": {
+          "name": "Palo Alto Networks"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Kubernetes per a Administradors IT",
+        "description": "Kubernetes per a Administradors IT",
+        "startDate": "2023-01-01",
+        "finishDate": "2023-12-31",
+        "institution": {
+          "name": "Linux Foundation"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Azure per a SysAdmins",
+        "description": "Azure per a SysAdmins",
+        "startDate": "2022-01-01",
+        "finishDate": "2022-12-31",
+        "institution": {
+          "name": "Microsoft"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Google Cloud Associate Cloud Engineer",
+        "description": "Google Cloud Associate Cloud Engineer",
+        "startDate": "2022-01-01",
+        "finishDate": "2022-12-31",
+        "institution": {
+          "name": "Google"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Zabbix Certified Specialist",
+        "description": "Zabbix Certified Specialist",
+        "startDate": "2020-01-01",
+        "finishDate": "2020-12-31",
+        "institution": {
+          "name": "Zabbix"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/jrojoal/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/jrojoal",
+          "type": "twitter"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {"name": "AWS", "type": "technology"},
+        {"name": "AWS EKS", "type": "technology"},
+        {"name": "AWS-Admin", "type": "technology"},
+        {"name": "Bash", "type": "technology"},
+        {"name": "Debian", "type": "technology"},
+        {"name": "Docker", "type": "technology"},
+        {"name": "ELK", "type": "technology"},
+        {"name": "Google Cloud", "type": "technology"},
+        {"name": "Google Kubernetes Engine", "type": "technology"},
+        {"name": "Grafana", "type": "technology"},
+        {"name": "Kubernetes", "type": "technology"},
+        {"name": "Linux", "type": "technology"},
+        {"name": "Oracle", "type": "technology"},
+        {"name": "Oracle Cloud", "type": "technology"},
+        {"name": "Perl", "type": "technology"},
+        {"name": "Python", "type": "technology"},
+        {"name": "RedHat", "type": "technology"},
+        {"name": "SUSE", "type": "technology"},
+        {"name": "Terraform", "type": "technology"},
+        {"name": "Ubuntu", "type": "technology"},
+        {"name": "Weblogic", "type": "technology"},
+        {"name": "Zabbix", "type": "technology"}
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Customer Service & Support",
+        "DevOps & Infrastructure & SRE",
+        "Developer Evangelist & Advocate",
+        "IT Manager",
+        "SysAdmin"
+      ]
+    },
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": ["permanent"]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {"name": "AWS", "type": "technology"},
+      {"name": "Bash", "type": "technology"},
+      {"name": "Docker", "type": "technology"},
+      {"name": "Kubernetes", "type": "technology"},
+      {"name": "Zabbix", "type": "technology"}
+    ],
+    "desiredJobDescription": "Em motiva treballar amb persones amb ganes d'aprendre i compartir coneixement. Valoro especialment els entorns on ensenyar, mentoritzar i acompanyar formen part del dia a dia, ja que crec fermament que el creixement real és col·lectiu.\n\nGaudio contribuint a crear equips on el coneixement es comparteix, es potencia i es transforma en valor conjunt.\n\nDisponibilitat ... previ avís de 15 dies.",
+    "goodPractices": "En el meu treball diari procuro aplicar sempre bones pràctiques. Per a mi, això significa mantenir una comunicació clara i transparent amb l'equip, complir els compromisos i ser puntual en cada responsabilitat que assumeixo.\n\nTambé poso especial atenció a respectar els estàndards professionals i cuidar els detalls que marquen la diferència en la qualitat del treball.\n\nEm esforço per mantenir una actitud positiva i constructiva, fomentant la col·laboració i el treball en equip, amb l'objectiu d'aconseguir els millors resultats de forma conjunta.\n\nForta orientació al treball en equip, documentació de processos i metodologies àgils.",
+    "bookmarks": [
+      {
+        "name": "Innovalocal.cat"
+      },
+      {
+        "name": "SCC",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/10/335fb29e-6369-4e02-9ca2-b5be9603a0f5_logoscc.jpg"
+      },
+      {
+        "name": "UPF",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/10/6e4749d2-4405-4687-985a-7829f707ac57_upft_rgb.png"
+      }
+    ]
+  }
+}{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pep",
+      "surnames": "Rojo",
       "title": "Padre, compañero de, freaky, geeky, linuxero, sysadmin, eterno aprendiz de lo que pueda.",
       "description": "Me dedico a resolver y gestionar problemas. A lo largo de mi trayectoria he trabajado en el diseño, configuración, monitorización y diagnóstico de dispositivos y servicios IT: switches, firewalls, servidores, redes LAN/WLAN y entornos VLAN, siempre en escenarios multicliente y multifabricante. También cuento con amplia experiencia en servicios gestionados y en la gestión de equipos técnicos.\n\nEn 2002 fundé AWACAT (Wireless Accesos Web Alternativos de Catalunya SL), un ISP especializado en el diseño e implantación de redes de telecomunicaciones en entornos rurales. Durante esta etapa asumí responsabilidades en múltiples áreas: dirección técnica, comercial, atención al cliente e I+D, lo que me permitió desarrollar una visión global del negocio.\n\nUn año después, en 2003, participé en la creación de Innovación Local, otro ISP wireless con sede en Barcelona, donde desempeñé funciones como consultor tecnológico y responsable del área comercial y de ventas.\n\nMis especialidades incluyen el análisis, desarrollo e implementación de soluciones tecnológicas adaptadas a entornos rurales, así como la negociación, la relación con clientes y la definición de estrategias con visión a largo plazo.\n\nDesde 1999 he acumulado experiencia en el sector de las telecomunicaciones y las nuevas tecnologías, incluyendo más de cinco años como gerente y varios años liderando distintos departamentos. Me adapto con facilidad a nuevos retos, aprendo rápido y disfruto liderando equipos.\n\nTengo un sólido conocimiento de GNU/Linux y del ecosistema de software libre, y mantengo una formación continua en microinformática, telecomunicaciones, programación, robótica open source y open hardware.\n\nObjetivos\nA corto plazo: emprender un proyecto enfocado en soluciones tecnológicas accesibles para personas con discapacidad, mayores y también orientadas al cuidado de mascotas.\nA medio plazo: alcanzar mayor independencia personal y profesional… y dedicar más tiempo a disfrutar: esquiar, leer, cine.\nA largo plazo: cambiar de casa (otra vez).",
       "location": {
